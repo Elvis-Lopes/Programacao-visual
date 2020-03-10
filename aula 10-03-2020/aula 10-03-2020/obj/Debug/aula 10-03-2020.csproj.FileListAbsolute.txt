@@ -1,0 +1,10 @@
+E:\aula 10-03-2020\aula 10-03-2020\bin\Debug\aula 10-03-2020.exe.config
+E:\aula 10-03-2020\aula 10-03-2020\bin\Debug\aula 10-03-2020.exe
+E:\aula 10-03-2020\aula 10-03-2020\bin\Debug\aula 10-03-2020.pdb
+E:\aula 10-03-2020\aula 10-03-2020\obj\Debug\aula 10-03-2020.csprojAssemblyReference.cache
+E:\aula 10-03-2020\aula 10-03-2020\obj\Debug\aula_10_03_2020.Form1.resources
+E:\aula 10-03-2020\aula 10-03-2020\obj\Debug\aula_10_03_2020.Properties.Resources.resources
+E:\aula 10-03-2020\aula 10-03-2020\obj\Debug\aula 10-03-2020.csproj.GenerateResource.cache
+E:\aula 10-03-2020\aula 10-03-2020\obj\Debug\aula 10-03-2020.csproj.CoreCompileInputs.cache
+E:\aula 10-03-2020\aula 10-03-2020\obj\Debug\aula 10-03-2020.exe
+E:\aula 10-03-2020\aula 10-03-2020\obj\Debug\aula 10-03-2020.pdb

@@ -1,0 +1,10 @@
+E:\Somador\Somador\bin\Debug\Somador.exe.config
+E:\Somador\Somador\bin\Debug\Somador.exe
+E:\Somador\Somador\bin\Debug\Somador.pdb
+E:\Somador\Somador\obj\Debug\Somador.csprojAssemblyReference.cache
+E:\Somador\Somador\obj\Debug\Somador.Form1.resources
+E:\Somador\Somador\obj\Debug\Somador.Properties.Resources.resources
+E:\Somador\Somador\obj\Debug\Somador.csproj.GenerateResource.cache
+E:\Somador\Somador\obj\Debug\Somador.csproj.CoreCompileInputs.cache
+E:\Somador\Somador\obj\Debug\Somador.exe
+E:\Somador\Somador\obj\Debug\Somador.pdb

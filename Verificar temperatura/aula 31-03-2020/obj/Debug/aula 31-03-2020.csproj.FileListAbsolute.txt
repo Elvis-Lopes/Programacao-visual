@@ -1,0 +1,10 @@
+C:\Users\elvis\OneDrive\Documents\Elvis\faculdade\8° semestre\programação visual\aula 31-03-2020\aula 31-03-2020\bin\Debug\aula 31-03-2020.exe.config
+C:\Users\elvis\OneDrive\Documents\Elvis\faculdade\8° semestre\programação visual\aula 31-03-2020\aula 31-03-2020\bin\Debug\aula 31-03-2020.exe
+C:\Users\elvis\OneDrive\Documents\Elvis\faculdade\8° semestre\programação visual\aula 31-03-2020\aula 31-03-2020\bin\Debug\aula 31-03-2020.pdb
+C:\Users\elvis\OneDrive\Documents\Elvis\faculdade\8° semestre\programação visual\aula 31-03-2020\aula 31-03-2020\obj\Debug\aula 31-03-2020.csprojAssemblyReference.cache
+C:\Users\elvis\OneDrive\Documents\Elvis\faculdade\8° semestre\programação visual\aula 31-03-2020\aula 31-03-2020\obj\Debug\aula_31_03_2020.Form1.resources
+C:\Users\elvis\OneDrive\Documents\Elvis\faculdade\8° semestre\programação visual\aula 31-03-2020\aula 31-03-2020\obj\Debug\aula_31_03_2020.Properties.Resources.resources
+C:\Users\elvis\OneDrive\Documents\Elvis\faculdade\8° semestre\programação visual\aula 31-03-2020\aula 31-03-2020\obj\Debug\aula 31-03-2020.csproj.GenerateResource.cache
+C:\Users\elvis\OneDrive\Documents\Elvis\faculdade\8° semestre\programação visual\aula 31-03-2020\aula 31-03-2020\obj\Debug\aula 31-03-2020.csproj.CoreCompileInputs.cache
+C:\Users\elvis\OneDrive\Documents\Elvis\faculdade\8° semestre\programação visual\aula 31-03-2020\aula 31-03-2020\obj\Debug\aula 31-03-2020.exe
+C:\Users\elvis\OneDrive\Documents\Elvis\faculdade\8° semestre\programação visual\aula 31-03-2020\aula 31-03-2020\obj\Debug\aula 31-03-2020.pdb
